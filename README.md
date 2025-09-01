@@ -1,2 +1,1 @@
-# yaoihoard-README.md
-![image alt](https://pin.it/38LH8hBP2)
+hey everybody this is just a test. dont mind it and go back to what you were doing.
